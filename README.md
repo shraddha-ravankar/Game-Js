@@ -1,4 +1,3 @@
-simon says game by using javascript
 🎮 Simon Game
 A fun and interactive memory game built using HTML, CSS, and JavaScript. Test your memory by repeating an increasingly long sequence of colors and sounds!
 
